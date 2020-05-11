@@ -10,7 +10,7 @@
   * [WHO AM I](#who-am-i)
   * [HOW TO CONTRIBUTE](#how-to-contribute)
   * [START FROM HERE](#start-from-here)
-    + [After layoff notification](#after-layoff-notification-)
+    + [After layoff notification](#after-layoff-notification)
     + [Mental and physical health](#mental-and-physical-health)
   * [BENEFITS](#benefits)
     + [Unemployment benefit I](#unemployment-benefit-i)

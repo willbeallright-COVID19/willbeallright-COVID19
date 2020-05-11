@@ -65,7 +65,7 @@ I am building it as an open-source project. I add here or going to add informati
 
 **Core maintainers**
 
--Alex Jozwik
+-[Alex Jozwik](https://www.linkedin.com/in/alex-jozwik-10182a7a/)
 
 ## START FROM HERE
 ### After layoff notification
@@ -82,12 +82,12 @@ Here is information you need to have after being notified about canceling your r
 
 ### Mental and physical health
 
-1. Layoff may cause serious emotional and physical distress. Therapy might help. You can try Betterhelp - an online counseling platform. BetterHelp makes professional counseling available anytime, anywhere, through a computer, tablet, or smartphone (we’re not cooperating with Betterhelp and this is only a suggestion). Another idea is to try something more self-served and cheaper solutions like the Calm app. They have a special program to deal with the anxiety (I personally use it during a very hectic period in my life and truly recommend it but again, I am not cooperating with The Calm app and this is only a suggestion).
+1. Layoff may cause serious emotional and physical distress. Therapy might help. You can try [Betterhelp](https://www.betterhelp.com/) - an online counseling platform. BetterHelp makes professional counseling available anytime, anywhere, through a computer, tablet, or smartphone (we’re not cooperating with Betterhelp and this is only a suggestion). Another idea is to try something more self-served and cheaper solutions like [the Calm app](https://www.calm.com/). They have a special program to deal with the anxiety (I personally use it during a very hectic period in my life and truly recommend it but again, I am not cooperating with The Calm app and this is only a suggestion).
 2. Exercises, there are hundreds of online training these days on Youtube and Facebook.
 3. Keep a positive attitude - try to not read news about the pandemic, lays off, and other negative stuff. I found RSS services helpful, because I want to be still connected to the world and at the same time avoid pandemic news. RSS is a feed aggregator where you can easily manage and arrange news interesting for you.
-4. Focus on your hobby or find a new one. You can try this website for example https://mymodernmet.com/online-painting-tutorials/.
+4. Focus on your hobby or find a new one. You can try this website for example [https://mymodernmet.com/online-painting-tutorials/](https://mymodernmet.com/online-painting-tutorials/).
 
-For more information regarding building resilience please visit APA’s website.
+For more information regarding building resilience please visit [APA’s website](https://www.apa.org/topics/resilience).
 
 ## BENEFITS
 **Unemployment**
@@ -100,7 +100,7 @@ There are two types of unemployment benefit in Germany:
 
 ### Unemployment benefit I
 **(Arbeitslosengeld I)**
-If you are an unemployed worker who has previously been making regular contributions to the German social security system, you may be eligible for unemployment benefit I. This provision is offered by the Federal Employment Agency (Bundesagentur für Arbeit) to cover you while you look for a job. The amount you receive, and the duration, depends on how long you have been contributing and the salary you received before you became unemployed.
+If you are an unemployed worker who has previously been making regular contributions to [the German social security system](https://www.iamexpat.de/expat-info/social-security), you may be eligible for unemployment benefit I. This provision is offered by the Federal Employment Agency (Bundesagentur für Arbeit) to cover you while you look for a job. The amount you receive, and the duration, depends on how long you have been contributing and the salary you received before you became unemployed.
 Unemployment benefit I requirements
 In order to qualify for unemployment benefit I, you must fulfill certain criteria:
 
@@ -116,11 +116,11 @@ If you do not fulfill these requirements, you may be able to apply for unemploym
 The amount of benefit you receive is based on your average weekly pay in the 12 months before you became unemployed (known as the “assessment period”). Your benefit will be 60% of your previous average wage (or 67% if you have children), up to a maximum of 6.900 euros per month in West Germany and 6.450 euros in East Germany.
 Your benefit payments will then be subject to taxes and social security contributions, just like a regular wage. These will automatically be taken from your benefit by the employment office before it is transferred to your bank account at the end of each month. This includes deductions for:
 
-- Statutory health insurance (7,3-8,2% of your benefit)
-- Pension insurance (9,45%)
+- [Statutory health insurance](https://www.iamexpat.de/expat-info/german-health-insurance/statutory-health-insurance-germany) (7,3-8,2% of your benefit)
+- [Pension insurance](https://www.iamexpat.de/expat-info/official-issues/pensions-retirement-age-germany) (9,45%)
 - Unemployment insurance (1,2%)
-- Long-term care insurance (1,025%)
-- Income tax
+- [Long-term care insurance](https://www.iamexpat.de/expat-info/social-security/long-term-care-insurance-germany-pflegeversicherung) (1,025%)
+- [Income tax](https://www.iamexpat.de/expat-info/taxation-germany/german-tax-system)
 - Solidarity surcharge
 
 **How long can I claim unemployment benefit I for?**
@@ -140,19 +140,19 @@ How to apply for unemployment benefit I
 If you find yourself unemployed and wish to apply for the unemployment benefit, you should take the following steps as soon as possible to ensure there is no delay in your payments.
 
 1. Register yourself as a job-seeker
-If you know in advance that you are going to be made redundant, register yourself at least three months before the end of your employment contract. If you do not have a notice period, or you become unexpectedly unemployed, you need to register within three days of finding out. This can be done online on the Federal Employment Agency’s website. Alternatively, you can call their free hotline on 0800 4 555500 or register in person.
+If you know in advance that you are going to be made redundant, register yourself at least three months before the end of your employment contract. If you do not have a notice period, or you become unexpectedly unemployed, you need to register within three days of finding out. This can be done online on [the Federal Employment Agency’s website](https://www.arbeitsagentur.de/). Alternatively, you can call their free hotline on 0800 4 555500 or register in person.
 
 2. Register in person
-On your first day without work, at the latest, you need to register in person as unemployed at your local employment office. You will need to bring:
+On your first day without work, at the latest, you need to register in person as unemployed at [your local employment office](https://con.arbeitsagentur.de/prod/apok/metasuche/suche/dienststellen). You will need to bring:
 
 - Your ID card or passport (not a driving license)
-- Your certificate of registration
+- Your [certificate of registration](https://www.iamexpat.de/expat-info/official-issues/registration-certificate-germany-anmeldebescheinigung)
 - Your visa or residence permit (if applicable)
 - Your dismissal/redundancy notice or an employment contract
-- Your CV - it's quite different from a typical CVs
+- Your [CV](https://www.iamexpat.de/career/german-cv-guide-lebenslauf) - it's quite different from a typical CVs
 
 3. Fill out an Application for Unemployment Benefit form
-You can get this form from the employment office; alternatively, it is available to download, fill out, and submit online. Note that the form is only available in German. At this stage, you can also work out how much unemployment benefit you are likely to receive.
+You can get this form from the employment office; alternatively, it is available to download, fill out, and submit online. Note that the form is only available in German. At this stage, you can also work out [how much unemployment benefit you are likely to receive](https://www.pub.arbeitsagentur.de/selbst.php?jahr=2018).
 You will receive a letter of confirmation in the post, usually within two weeks. You will also probably be invited to attend meetings with a counselor at the employment agency, where you will be expected to demonstrate the efforts you have made to find a job. Note that if you turn down job offers or any training / further education made available to you, your benefits payments can be reduced or stopped altogether.
 
 ### Unemployment benefit II
@@ -197,20 +197,20 @@ Additional support is also provided for:
 **How to apply for unemployment benefit II**
 Unemployment benefit II is intended as a “subordinate benefit”, meaning that it is only given when all other possible benefits have been paid out. Before you apply, you will be expected to have already applied for any other social security or assistance benefits you might be eligible for, including:
 
-- Child benefit or child allowance
+- [Child benefit](https://www.iamexpat.de/expat-info/social-security/child-benefits-germany-kindergeld) or [child allowance](https://www.iamexpat.de/expat-info/social-security/child-benefits-germany-kindergeld)
 - (Reduced) early retirement pension
-- Sickness benefit
-- Housing benefit
-- Maternity benefit
-- Parental allowance
+- [Sickness benefit](https://www.iamexpat.de/expat-info/social-security/sickness-benefit-germany-krankengeld)
+- [Housing benefit](https://www.iamexpat.de/expat-info/social-security/housing-benefit-germany-wohngeld)
+- [Maternity benefit](https://www.iamexpat.de/expat-info/social-security/maternity-benefit-germany-mutterschaftsgeld)
+- [Parental allowance](https://www.iamexpat.de/expat-info/social-security/parental-allowance-germany-elterngeld)
 
 If you have exhausted all the above options and you still cannot meet your own basic living expenses, you may apply for unemployment benefit II by taking the following steps:
 
-1. Register at your local job center
+1. Register at your [local job center](https://con.arbeitsagentur.de/prod/apok/metasuche/suche/dienststellen)
 At this first appointment at your local job center, you will discuss your personal situation with the advisor. You will need to bring:
 - Your ID card or passport (not a driving license)
 - Your visa or residence permit (if applicable)
-- Your social security ID (Sozialversicherungsausweis)
+- Your social [security ID (Sozialversicherungsausweis)](https://www.iamexpat.de/expat-info/official-issues/social-security-id-germany-sozialversicherungsausweis)
 
 2. Fill out an Application for Unemployment Benefit II form
 You will receive all the forms you need at your initial appointment; you can also download the necessary forms from the Federal Employment Agency’s website. The job center publishes advice on completing this form in various languages, including English. Staff members will also be able to advise you if you have any difficulties.
@@ -225,20 +225,20 @@ As well as your completed application form, you will need to supply documents th
 
 Remember also to bring a valid form of ID to all of your job center appointments.
 Your case will then be considered; if you are eligible to receive the benefit you will receive a notification with a schedule of payments in the post. You will also be informed of any further steps you need to take, such as attending appointments, applying for jobs, or undertaking training.
-*Source: https://www.iamexpat.de/expat-info/social-security/unemployment-benefits-germany-arbeitslosengeld*
+*Source: [https://www.iamexpat.de/expat-info/social-security/unemployment-benefits-germany-arbeitslosengeld](https://www.iamexpat.de/expat-info/social-security/unemployment-benefits-germany-arbeitslosengeld)*
 
 ## HEALTH INSURANCE
-Healthcare in Germany is divided into two sectors:
+[Healthcare in Germany](https://www.internations.org/go/moving-to-germany/healthcare) is divided into two sectors:
 
 - the gesetzliche Krankenversicherung or Gesetzliche Krankenkasse (public health insurance or the statutory healthcare system, as the Germans prefer to call it)
 - and private Krankenversicherung (private health insurance).
 
 In Germany, it is a legal requirement to have some form of health coverage, whether public or private, and it is even a requirement when starting a job.
 
-When you register as an unemployed person you will get your Gesetzliche Krankenkasse (the statutory healthcare system) covered, however, if you previously have chosen private Krankenversicherung (private health insurance) there is no way to getting out of your private insurance contract, unless you leave the country.
+When you register as an unemployed person you will get your Gesetzliche Krankenkasse (the statutory healthcare system) covered, however, if you previously have chosen private Krankenversicherung (private health insurance) there is no way to getting out of your private insurance contract, [unless you leave the country](https://www.klforexpats.com/2020/01/30/cancel-german-health-insurance/).
 
 ## ALL - in - one GUIDES
-Compiled and regularly added community-sourced resources into a central job-searching list. Every job board and talent list recently launched is in this list
+Compiled and regularly added community-sourced resources into a [central job-searching list](https://docs.google.com/spreadsheets/d/1ALcEcvgl9RHKt8owu94zB_ZcbsaHgyhZrSjpjNj16_8/edit#gid=0). Every job board and talent list recently launched is in this list
 
 ## NEXT JOB SECTION - COMING SOON
 ## EMPLOYEES HOW YOU CAN HELP SECTION
@@ -250,7 +250,7 @@ Compiled and regularly added community-sourced resources into a central job-sear
 
 **Try to be specific with any help you offer and avoid the overwhelming phrase "don't hesitate to reach out."**
 
-I'd also recommend this piece to read on how to help your friend through a coronavirus layoff
+I'd also recommend this piece to read on [how to help your friend through a coronavirus layoff](https://qz.com/work/1829796/what-to-say-when-someone-is-laid-off-because-of-coronavirus/)
 
 ## EMPLOYERS HOW YOU CAN HELP SECTION
 I’m glad you're here! We hope some of this is helpful and welcome input if you'd like to share wisdom with other companies.
@@ -273,24 +273,24 @@ Sourcing Candidates
 
 Source your candidate pipeline from layoff lists/trackers, either distributed by your investors or through sites listed below. Layoffs are currently affecting every sector (even parts of healthcare).
 
-- Florian's List
-- Trivago is planning a layoff
-- Monese looking to close the company in Berlin
-- Lime announced layoff
-- Fab layoff
-- Layoffs coronavirus tracker in Berlin
-- Ex - Uber Marketing team also in Germany
-- Rover lays off in Berlin
+- [Florian's List](https://docs.google.com/spreadsheets/d/1lwZ4ot10j-wvQZgA_hJ0AZJS_X3V9HjVk2QLsAU4WMc/edit#gid=1353545767)
+- [Trivago is planning a layoff](https://skift.com/2020/05/04/trivago-looks-to-reorganize-with-significant-job-cuts/)
+- [Monese looking to close the company in Berlin](https://www.altfi.com/article/6531_exclusive-monese-looking-to-close-lisbon-and-berlin-offices-with-layoffs-across-the-company)
+- [Lime announced layoff](https://www.cnbc.com/2020/04/30/lime-announces-layoffs-as-coronavirus-batters-scooter-startups.html)
+- [Fab layoff](https://www.businessinsider.com/fab-lays-off-more-than-100-employees-in-europe-2013-7?IR=T)
+- [Layoffs coronavirus tracker in Berlin](https://layoffs.fyi/tracker/)
+- [Ex - Uber Marketing team also in Germany](https://docs.google.com/spreadsheets/d/1rx100HbDMLZZpXBJQCekAeNDUVKB5J6nFBpfvToYuIE/edit#gid=0)
+- [Rover lays off in Berlin](https://www.geekwire.com/2020/pet-care-startup-rover-lays-off-41-workforce-194-employees-due-covid-19-impact/)
 
 **Repost Open Jobs**
 
 Repost open jobs frequently. If your careers page doesn't already mention when the posting was updated, consider adding it. Stale postings (2+ weeks old, especially if your company already had a round of layoffs) are unreliable when industry hiring needs are changing weekly. If you haven't already, add your open jobs to sites/lists like the following:
 
-- Remote Jobs From 100+ Companies Hiring Remotely in February 2020
-- StillHiring.io
-- Coda.io - hiring list Germany + Europe
-- Elpha - hiring list Germany + Europe
-- LEVELS.FYI list
+- [Remote Jobs From 100+ Companies Hiring Remotely in February 2020](https://docs.google.com/spreadsheets/u/1/d/1M-8J7z605dcPhUjYfyiKVxuci0e4AWsDLo_tvs19C5M/htmlview?fbclid=IwAR1NeQKKlrB7S8hO53VVAVtJyxEiJPsNw4cGIXRwZ-JSc3wU9XWU_JZYK8A&urp=gmail_link)
+- [StillHiring.io](http://www.stillhiring.io/?fbclid=IwAR243CJhcNmDxeDe8ncSkm35imYb-ntCf0ncBrW7IRN4RNs-u0xcPA2sjUE)
+- [Coda.io - hiring list Germany + Europe](https://coda.io/@kenny/companies-still-hiring)
+- [Elpha - hiring list Germany + Europe](https://elpha.com/positions?sort=newest&locations%5B%5D=Frankfurt%2C+Germany&locations%5B%5D=Krakow%2C+Poland&locations%5B%5D=Munich%2C+Germany&locations%5B%5D=Paris%2C+France)
+- [LEVELS.FYI list](https://www.levels.fyi/still-hiring/)
 
 **Close Closed Jobs**
 

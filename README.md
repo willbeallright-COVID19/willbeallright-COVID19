@@ -17,7 +17,13 @@
     + [Unemployment benefit II](#unemployment-benefit-ii)
   * [HEALTH INSURANCE](#health-insurance)
   * [ALL - in - one GUIDES](#all---in---one-guides)
-  * [NEXT JOB SECTION - COMING SOON](#next-job-section---coming-soon)
+  * [NEXT JOB SECTION](#next-job-section)
+    + [Get organized](#get-organized)
+    + [Where to apply?](#where-to-apply)
+    + [Set up your job search materials](#set-up-your-job-search-materials)
+    + [Networking](#networking)
+    + [Preparing for interviews](#preparing-for-interviews)
+    + [Offers and negotiating](#offers-and-negotiating)
   * [EMPLOYEES HOW YOU CAN HELP SECTION](#employees-how-you-can-help-section)
   * [EMPLOYERS HOW YOU CAN HELP SECTION](#employers-how-you-can-help-section)
 
@@ -240,7 +246,114 @@ When you register as an unemployed person you will get your Gesetzliche Krankenk
 ## ALL - in - one GUIDES
 Compiled and regularly added community-sourced resources into a [central job-searching list](https://docs.google.com/spreadsheets/d/1ALcEcvgl9RHKt8owu94zB_ZcbsaHgyhZrSjpjNj16_8/edit#gid=0). Every job board and talent list recently launched is in this list
 
-## NEXT JOB SECTION - COMING SOON
+## NEXT JOB SECTION
+### Get organized
+
+Having a lot on your plate surely doesn’t make the job hunt any easier, but don’t worry - as David Allen says in his “Getting Things Done” bestseller, your mind will be more sharp, focused and calm as soon as you have written down your TO-DOs. Getting organized is the key!
+
+**First: Schedule your day**
+
+The fact you’ve been let go shouldn’t be an excuse to sleep in till noon, eat pizza and watch Netflix all day. I guarantee you’re going to feel way better as soon as you do as little as get dressed and plan your day just a bit. Setting one task for yourself to complete that day should be good enough to start!
+The sooner you get out of despair, the sooner you’ll get back on track.
+You can use Google calendar or Trello board to plan your day. Example TRELLO board (it’s a free tool) HERE.
+
+Everyone does better with some structure in life and plan. External accountability can also be useful for many people, so feel free to find a person who can check your progress regularly. 
+
+**Second: Job ads research**
+
+One of the tasks you can choose for yourself is going through job ads that might interest you and collect them in one place (an example of a tracking system can be found in the section below). Obviously there’s no need to dig through the entire internet in one day and it can actually be a good idea to check each website e.g. twice a week to see if there are any new ads that might be interesting for you.
+
+### Where to Apply?
+Glassdoor
+Monster 
+Jobreset
+Career folio
+The Local
+Berlin Startup Jobs
+Linkedin
+Nofluffjobs
+WeAreDevelopers
+
+Facebook groups - find the ones that will be relevant for you!
+For example:
+- Berlin Startup and other Jobs
+- IT Jobs Germany
+- Work in Germany
+
+Slack channels:
+- StartupBerlin
+- Berlin Techs
+
+You can also sign in to websites to generate inbound leads such as:
+- CodersFirst
+- Honeypot
+- AngelList
+- MoBerries
+- StackOverFlow Talent
+
+*NOTE: Don’t put your phone number on your resume for these sites unless you want people to cold call you!*
+
+**Third: Tracking system**
+
+The best way to manage and control your job search is by using a simple tracking system. I’ve prepared an example for you [HERE](https://docs.google.com/spreadsheets/d/1Gz1OmLVlEkhWe5ihM0kIr4Enh3ULslERrCYkLgLbEfo/edit?usp=sharing), feel free to copy it and adjust to your needs. :)
+
+It’s a simple spreadsheet where you should put all the recruitment information, statuses, your impressions etc. It will give you a brilliant overview of what’s going on in each case without cluttering your memory.
+
+### Set up your job search materials
+
+**Prepare your resume**
+
+**One CV might not be enough. Why?**
+- When sending your application, it may happen you will not be sending your CV to a human being, but to a system (ATS - Applicant Tracking System) that will be extracting data from the pdf/docx etc. For instances when you’re not interacting with a human, it’s best to prepare a CV with as little graphics as possible so that the system can extract the necessary information without which your application cannot be further processed. 
+- Otherwise, when sending your CV directly to a recruiters inbox this is when a good CV design can come in handy.
+- If you’re thinking about applying for several different positions it might make sense to make a separate CV for each of them. Thanks to this you can stress the necessary keywords recruiters will be looking for which might vary from job to job.
+
+Best practices for:
+- [ATS compliant resume](https://docs.google.com/document/d/1D_YtM4LKItgAR5ledzLVSyA3PXPNEDodhX4VD2-uMw0/edit?usp=sharing),
+- [General resume](https://docs.google.com/document/d/1mVxl-TWPfGjZQK_93AVJTa2qC3ig3r0U9yxZmvIIpUo/edit?usp=sharing).
+
+**Improve your online presence**
+
+It’s a good practice to set it up before you start sending resumes as lots of companies will conduct a quick social media check before inviting you for an interview. And the most common media used for a job search is Linkedin. 
+
+**Here are a few tips on how to improve your visibility to recruiters on Linkedin:**
+- If you don’t have a profile picture, upload one that is professional
+- Insert keywords to your profile relevant to the position you’re looking for. Use the space in your title, job description and summary. EXAMPLE: If you’re looking for a Python Engineer position, it would make sense to include the word “Python”/”Django” (depending which technologies interest you) in the title or summary instead of a generic “Software Engineer”. It will help recruiters find you!
+- Fill in the “Skills” section with the skills necessary for the job (the ones that you have or are working on). You can ask your friends or colleagues to endorse you.
+- Let recruiters know you’re open to job opportunities (turn [this feature on](https://www.linkedin.com/help/linkedin/answer/67405?lang=en))
+- Add “open to new opportunities” in the title
+- Describe in the summary the most recent project you have worked on or the one you think was the most ambitious
+
+### Networking
+Remember you’re not the only one in this situation. It’s actually a good idea to find others and connect with them - share resources, ideas and anything you’d like. Don’t underestimate the power of a community!
+- Look out for the hashtags #Coronahilfe, #Nachbarschaftshilfe and #Nachbarschaftschallenge (neighbourhood help/neighbourhood challenge) for local initiatives. Those are used widely regarding any help people need during the coronavirus pandemic.
+- Look for Facebook groups - following up the #Coronahilfe there are groups created for regions or cities in Germany, e.g. in Dusseldorf here: [https://www.facebook.com/groups/210721353668391/](https://www.facebook.com/groups/210721353668391/)
+- You can also check [HireClub Germany](https://hireclub.com/communities/germany) - it is a group to help facilitate peer to peer job referrals, there is a community in Germany too.
+- [Hire Tech Ladies](https://www.hiretechladies.com/) is a community with a specific purpose to hire/get women hired.
+- [Elpha](https://elpha.com/) - community for women in tech. This is not specifically for job hunting, however there is a job board you can go through and for sure a very supportive community too!
+- [Willbeallright.Covid19 slack](https://app.slack.com/client/T012M75TN93/C012FS773U6)  where we share tips and for example CV consultation
+- Alumni network from your former companies - it could be a nice experience to connect with people who used to work at the same company that you have. They might be in a similar situation or be able to help you using their connections.
+
+### Preparing for Interviews
+*“Before anything else, preparation is the key to success”* - said by Alexander Graham Bell could not be more accurate here. This is why you should always prepare for the interview to increase your chances of getting hired. Obviously there are always factors like skills and culture fit, but there are some universal values a lot of companies are paying attention to. **Remember, failing to prepare is preparing to fail!**
+
+Below you can find several useful tips and resources that should help you prepare:
+- [General advice](https://medium.com/swlh/this-expert-approach-will-prepare-you-for-any-interview-d8b62e3be03d) on medium by an expert
+- [STAR method for behavioral interviewing](https://www.vawizard.org/wiz-pdf/STAR_Method_Interviews.pdf)
+- [Best practices for video job interviews](https://www.fastcompany.com/90479058/5-things-you-must-do-to-have-a-successful-job-interview-on-video-during-the-covid-19-outbreak) by FastCompany
+
+And specifically for Technical Interviews you can use the materials below:
+- [How To Prepare For A Technical Interview](https://medium.com/@dominicwhite/how-to-prepare-for-a-technical-interview-182e64dd95ae) on medium
+- [Yangshung Tay's Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/introduction) covers a lot, specifically for technical interviewing. 
+
+### Offers and Negotiating
+Considering the current situation, it might be hard to negotiate and probably lots of people will take lower-paying jobs just to make ends meet. And that’s okay, no shame in that! Everyone is aware of what’s going on in the economy right now and even if you decide to pursue something entirely different it won’t be seen negatively by recruiters in the future.
+To make an informed decision feel free to use the Decision-making matrix [HERE](https://docs.google.com/spreadsheets/d/1Gz1OmLVlEkhWe5ihM0kIr4Enh3ULslERrCYkLgLbEfo/edit?usp=sharing).
+
+In case you’d like to try negotiating techniques, you can also use the tips from articles below:
+- [How to negotiate your salary](https://www.glassdoor.com/blog/guide/how-to-negotiate-your-salary/) by Glassdoor
+- [More tips](https://www.learnhowtobecome.org/career-resource-center/negotiate-job-offer/) for your negotiating techniques
+
 ## EMPLOYEES HOW YOU CAN HELP SECTION
 **The tl;dr is:**
 

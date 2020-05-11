@@ -5,6 +5,19 @@
 - to share resources and announcements ad-hoc
 
 **What you will find here**
+  * [ABOUT](#about)
+  * [ROADMAP](#roadmap)
+  * [WHO AM I?](#who-am-i-)
+  * [HOW TO CONTRIBUTE](#how-to-contribute)
+  * [START FROM HERE](#start-from-here)
+  * [BENEFITS](#benefits)
+    + [Unemployment benefit I (Arbeitslosengeld I)](#unemployment-benefit-i--arbeitslosengeld-i-)
+    + [Unemployment benefit II](#unemployment-benefit-ii)
+  * [HEALTH INSURANCE](#health-insurance)
+  * [ALL - in - one GUIDES](#all---in---one-guides)
+  * [NEXT JOB SECTION - COMING SOON](#next-job-section---coming-soon)
+  * [EMPLOYEES_HOW YOU CAN HELP SECTION](#employees-how-you-can-help-section)
+  * [EMPLOYERS_HOW YOU CAN HELP SECTION](#employers-how-you-can-help-section)
 
 ABOUT SECTION
 ROADMAP - why I am doing this

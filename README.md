@@ -7,36 +7,19 @@
 **What you will find here**
   * [ABOUT](#about)
   * [ROADMAP](#roadmap)
-  * [WHO AM I?](#who-am-i-)
+  * [WHO AM I?](#who-am-i?)
   * [HOW TO CONTRIBUTE](#how-to-contribute)
   * [START FROM HERE](#start-from-here)
+    + [After layoff notification](#after-layoff-notification-)
+    + [Mental and physical health](#mental-and-physical-health)
   * [BENEFITS](#benefits)
-    + [Unemployment benefit I (Arbeitslosengeld I)](#unemployment-benefit-i--arbeitslosengeld-i-)
+    + [Unemployment benefit I (Arbeitslosengeld I)](#unemployment-benefit-i-(arbeitslosengeld-i))
     + [Unemployment benefit II](#unemployment-benefit-ii)
   * [HEALTH INSURANCE](#health-insurance)
   * [ALL - in - one GUIDES](#all---in---one-guides)
   * [NEXT JOB SECTION - COMING SOON](#next-job-section---coming-soon)
   * [EMPLOYEES_HOW YOU CAN HELP SECTION](#employees-how-you-can-help-section)
   * [EMPLOYERS_HOW YOU CAN HELP SECTION](#employers-how-you-can-help-section)
-
-ABOUT SECTION
-ROADMAP - why I am doing this
-WHO AM I
-HOW TO CONTRIBUTE
-START FROM HERE
-- What to do after layoff notification
-
-- Mental and physical health
-
-BENEFITS
-- Germany help on unemployment
-
-- Health insurance
-
-ALL - IN - ONE GUIDES
-- Central job - search with all job links and necessary info during a pandemic job search
-NEXT JOB SECTION - COMING SOON
-EMPLOYEES_HOW YOU CAN HELP
 
 ## ABOUT
 One place for all necessary information during COVID-19 layoffs for employers, employees, and people who've been recently laid off.

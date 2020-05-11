@@ -1,7 +1,7 @@
 # willbeallright-COVID19
 **COVID Layoff related - support and job search resources for the European engineering community**
 
-**Slack channel_willbeallright.COVID19: willbeallrightcovid19.slack.com**
+**Slack channel_willbeallright.COVID19: [willbeallrightcovid19.slack.com](https://willbeallrightcovid19.slack.com/)**
 - to share resources and announcements ad-hoc
 
 **What you will find here**
@@ -18,8 +18,8 @@
   * [HEALTH INSURANCE](#health-insurance)
   * [ALL - in - one GUIDES](#all---in---one-guides)
   * [NEXT JOB SECTION - COMING SOON](#next-job-section---coming-soon)
-  * [EMPLOYEES_HOW YOU CAN HELP SECTION](#employees-how-you-can-help-section)
-  * [EMPLOYERS_HOW YOU CAN HELP SECTION](#employers-how-you-can-help-section)
+  * [EMPLOYEES HOW YOU CAN HELP SECTION](#employees-how-you-can-help-section)
+  * [EMPLOYERS HOW YOU CAN HELP SECTION](#employers-how-you-can-help-section)
 
 ## ABOUT
 One place for all necessary information during COVID-19 layoffs for employers, employees, and people who've been recently laid off.
@@ -38,7 +38,7 @@ During that time, while helping engineers to stay connected to job opportunities
 So, I was looking for a collaborative place where I can put all information found during our "concierge project" to share it with the community, especially because there are so much mutually exclusive information and so many amazing & helpful resources I had no idea of existing. I believe there should be an easily accessible place for people in need. And Github seems to be the place.
 
 ## WHO AM I
-I am Alex Jozwik, ex-lawyer, ex-UN in Geneva and NYC, co-founder of CodersFirst and Diversity & Inclusion Advocate.
+I am [Alex Jozwik](https://www.linkedin.com/in/alex-jozwik-10182a7a/), ex-lawyer, ex-UN in Geneva and NYC, co-founder of CodersFirst and Diversity & Inclusion Advocate.
 
 Disclaimer: I’m not your lawyer or a lawyer anymore, and I’m not a financial advisor. Any advice below is just that (advice. One person’s opinion). I wanted to centralize resources I’ve seen from news outlets and anyone else on the hunt for jobs right now.
 

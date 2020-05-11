@@ -7,13 +7,13 @@
 **What you will find here**
   * [ABOUT](#about)
   * [ROADMAP](#roadmap)
-  * [WHO AM I?](#who-am-i?)
+  * [WHO AM I](#who-am-i)
   * [HOW TO CONTRIBUTE](#how-to-contribute)
   * [START FROM HERE](#start-from-here)
     + [After layoff notification](#after-layoff-notification-)
     + [Mental and physical health](#mental-and-physical-health)
   * [BENEFITS](#benefits)
-    + [Unemployment benefit I (Arbeitslosengeld I)](#unemployment-benefit-i-(arbeitslosengeld-i))
+    + [Unemployment benefit I](#unemployment-benefit-i)
     + [Unemployment benefit II](#unemployment-benefit-ii)
   * [HEALTH INSURANCE](#health-insurance)
   * [ALL - in - one GUIDES](#all---in---one-guides)
@@ -37,7 +37,7 @@ During that time, while helping engineers to stay connected to job opportunities
 
 So, I was looking for a collaborative place where I can put all information found during our "concierge project" to share it with the community, especially because there are so much mutually exclusive information and so many amazing & helpful resources I had no idea of existing. I believe there should be an easily accessible place for people in need. And Github seems to be the place.
 
-## WHO AM I?
+## WHO AM I
 I am Alex Jozwik, ex-lawyer, ex-UN in Geneva and NYC, co-founder of CodersFirst and Diversity & Inclusion Advocate.
 
 Disclaimer: I’m not your lawyer or a lawyer anymore, and I’m not a financial advisor. Any advice below is just that (advice. One person’s opinion). I wanted to centralize resources I’ve seen from news outlets and anyone else on the hunt for jobs right now.
@@ -68,7 +68,7 @@ I am building it as an open-source project. I add here or going to add informati
 -Alex Jozwik
 
 ## START FROM HERE
-**After layoff notification**
+### After layoff notification
 Breathe. I know being layoffs sucks and during the pandemic, time might be even harder to handle. Take your time. Breathe. It’s ok to feel sad, angry, or doubtfully, take care of yourself on every stage of the process.
 
 Here is information you need to have after being notified about canceling your role. If HR people didn’t give you those details, reach out to them immediately.
@@ -80,7 +80,7 @@ Here is information you need to have after being notified about canceling your r
 5. By when can you keep a company computer/related equipment? This is also a really important question, especially when this is the only computer you own at the moment. All activities are remote now, public libraries are closed and it might be difficult to search for a new job without access to the internet. Also, many recruitment processes are conducting remotely. if you can’t keep the computer ask the company if you can keep it at least on loan until you find your next job.
 6. What about all the personal items you have on the company computer? How can you get this information back? While you shouldn’t have personal data on the corporate machine, the reality is almost everyone does. Ask the company how much time do you have to get your files in order.
 
-**Mental and physical health**
+### Mental and physical health
 
 1. Layoff may cause serious emotional and physical distress. Therapy might help. You can try Betterhelp - an online counseling platform. BetterHelp makes professional counseling available anytime, anywhere, through a computer, tablet, or smartphone (we’re not cooperating with Betterhelp and this is only a suggestion). Another idea is to try something more self-served and cheaper solutions like the Calm app. They have a special program to deal with the anxiety (I personally use it during a very hectic period in my life and truly recommend it but again, I am not cooperating with The Calm app and this is only a suggestion).
 2. Exercises, there are hundreds of online training these days on Youtube and Facebook.
@@ -98,7 +98,8 @@ There are two types of unemployment benefit in Germany:
 - unemployment benefit I and,
 - unemployment benefit II (Arbeitslosengeld I and Arbeitslosengeld II).
 
-### Unemployment benefit I (Arbeitslosengeld I)
+### Unemployment benefit I
+**(Arbeitslosengeld I)**
 If you are an unemployed worker who has previously been making regular contributions to the German social security system, you may be eligible for unemployment benefit I. This provision is offered by the Federal Employment Agency (Bundesagentur für Arbeit) to cover you while you look for a job. The amount you receive, and the duration, depends on how long you have been contributing and the salary you received before you became unemployed.
 Unemployment benefit I requirements
 In order to qualify for unemployment benefit I, you must fulfill certain criteria:
@@ -240,7 +241,7 @@ When you register as an unemployed person you will get your Gesetzliche Krankenk
 Compiled and regularly added community-sourced resources into a central job-searching list. Every job board and talent list recently launched is in this list
 
 ## NEXT JOB SECTION - COMING SOON
-## EMPLOYEES_HOW YOU CAN HELP SECTION
+## EMPLOYEES HOW YOU CAN HELP SECTION
 **The tl;dr is:**
 
 - amplify your colleagues-- share or like their posts,
@@ -251,7 +252,7 @@ Compiled and regularly added community-sourced resources into a central job-sear
 
 I'd also recommend this piece to read on how to help your friend through a coronavirus layoff
 
-## EMPLOYERS_HOW YOU CAN HELP SECTION
+## EMPLOYERS HOW YOU CAN HELP SECTION
 I’m glad you're here! We hope some of this is helpful and welcome input if you'd like to share wisdom with other companies.
 **Before Layoffs**
 

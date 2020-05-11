@@ -255,7 +255,7 @@ Having a lot on your plate surely doesn’t make the job hunt any easier, but do
 
 The fact you’ve been let go shouldn’t be an excuse to sleep in till noon, eat pizza and watch Netflix all day. I guarantee you’re going to feel way better as soon as you do as little as get dressed and plan your day just a bit. Setting one task for yourself to complete that day should be good enough to start!
 The sooner you get out of despair, the sooner you’ll get back on track.
-You can use Google calendar or Trello board to plan your day. Example TRELLO board (it’s a free tool) HERE.
+You can use Google calendar or Trello board to plan your day. Example TRELLO board (it’s a free tool) [HERE](https://trello.com/b/bamxAupz/job-hunting).
 
 Everyone does better with some structure in life and plan. External accountability can also be useful for many people, so feel free to find a person who can check your progress regularly. 
 
@@ -264,32 +264,32 @@ Everyone does better with some structure in life and plan. External accountabili
 One of the tasks you can choose for yourself is going through job ads that might interest you and collect them in one place (an example of a tracking system can be found in the section below). Obviously there’s no need to dig through the entire internet in one day and it can actually be a good idea to check each website e.g. twice a week to see if there are any new ads that might be interesting for you.
 
 ### Where to Apply?
-Glassdoor
-Monster 
-Jobreset
-Career folio
-The Local
-Berlin Startup Jobs
-Linkedin
-Nofluffjobs
-WeAreDevelopers
+- [Glassdoor](https://www.glassdoor.com/index.htm)
+- [Monster](https://www.monster.de/en/?intcid=swoop_TopNav_English)
+- [Jobreset](http://jobreset.com/)
+- [Career folio](https://careers.foliomag.com/)
+- [The Local](https://jobs.thelocal.de/)
+- [Berlin Startup Jobs](https://berlinstartupjobs.com/)
+- [Linkedin](https://www.linkedin.com/jobs)
+- [Nofluffjobs](https://nofluffjobs.com/)
+- [WeAreDevelopers](https://www.wearedevelopers.com/talents/)
 
 Facebook groups - find the ones that will be relevant for you!
 For example:
-- Berlin Startup and other Jobs
-- IT Jobs Germany
-- Work in Germany
+- [Berlin Startup and other Jobs](https://www.facebook.com/groups/Berlinjobboard/?ref=br_rs)
+- [IT Jobs Germany](https://www.facebook.com/groups/510230192485633/?ref=br_rs)
+- [Work in Germany](https://www.facebook.com/groups/386917191705233/?ref=br_rs)
 
 Slack channels:
-- StartupBerlin
-- Berlin Techs
+- [StartupBerlin](https://startupberlin.co/)
+- [Berlin Techs](http://www.berlintechs.org/)
 
 You can also sign in to websites to generate inbound leads such as:
-- CodersFirst
-- Honeypot
-- AngelList
-- MoBerries
-- StackOverFlow Talent
+- [CodersFirst](http://codersfirst.com)
+- [Honeypot](http://honeypot.io)
+- [AngelList](https://angel.co/)
+- [MoBerries](https://www.moberries.com/)
+- [StackOverFlow Talent](https://stackoverflow.com/talent/en)
 
 *NOTE: Don’t put your phone number on your resume for these sites unless you want people to cold call you!*
 

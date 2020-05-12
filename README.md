@@ -242,9 +242,11 @@ Your case will then be considered; if you are eligible to receive the benefit yo
 ### Austria
 **Unemployment benefits in Austria**
 **How to apply for unemployment benefit?**
+
 In Austria, the leading provider of labor-market related services is Austrian Public Employment
 Service (AMS). If you find yourself unemployed and wish to apply for the unemployment benefit, you
 should take the following steps:
+
 1. Register yourself as unemployed – please note that you can do it on the first day after the
 employment relationship ended at latest or before the end of your employment contract if
 you know the exact date when you will become unemployed (this does not apply to claims
@@ -256,6 +258,7 @@ eAMS-account or contact AMS directly. Make sure you are eligible for a benefit t
 applying for.
 
 **What unemployment benefits does AMS offer?**
+
 Please note that the forms of unemployment benefit as well as its conditions and amounts may differ
 between Austria’s provinces.
 

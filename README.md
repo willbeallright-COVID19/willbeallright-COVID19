@@ -69,9 +69,12 @@ I am building it as an open-source project. I add here or going to add informati
 - the resource link(s) or relevant information you wish to share
 - a profile link (LinkedIn, Github, etc) that you prefer to be associated with when we credit your contribution (if you prefer to remain anonymous, please say so).
 
-**Core maintainers**
-
+**Core maintainer:**
 -[Alex Jozwik](https://www.linkedin.com/in/alex-jozwik-10182a7a/)
+
+**Maintainers:**
+- [Patrycja Szymanska](https://www.linkedin.com/in/patrycja-szyma%C5%84ska-codersfirst/)
+- [Katarzyna Ewertowska](https://www.linkedin.com/in/katarzyna-ewertowska-b0072ab6/)
 
 ## START FROM HERE
 ### After layoff notification
@@ -353,6 +356,8 @@ To make an informed decision feel free to use the Decision-making matrix [HERE](
 In case you’d like to try negotiating techniques, you can also use the tips from articles below:
 - [How to negotiate your salary](https://www.glassdoor.com/blog/guide/how-to-negotiate-your-salary/) by Glassdoor
 - [More tips](https://www.learnhowtobecome.org/career-resource-center/negotiate-job-offer/) for your negotiating techniques
+
+*Contributor: [Patrycja Szymanska](https://www.linkedin.com/in/patrycja-szyma%C5%84ska-codersfirst/)*
 
 ## EMPLOYEES HOW YOU CAN HELP SECTION
 **The tl;dr is:**

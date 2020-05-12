@@ -241,6 +241,7 @@ Your case will then be considered; if you are eligible to receive the benefit yo
 
 ### Austria
 **Unemployment benefits in Austria**
+
 **How to apply for unemployment benefit?**
 
 In Austria, the leading provider of labor-market related services is Austrian Public Employment

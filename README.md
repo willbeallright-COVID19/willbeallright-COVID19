@@ -13,8 +13,10 @@
     + [After layoff notification](#after-layoff-notification)
     + [Mental and physical health](#mental-and-physical-health)
   * [BENEFITS](#benefits)
-    + [Unemployment benefit I](#unemployment-benefit-i)
-    + [Unemployment benefit II](#unemployment-benefit-ii)
+    + [Germany](#germany)
+      + [Unemployment benefit I](#unemployment-benefit-i)
+      + [Unemployment benefit II](#unemployment-benefit-ii)
+    + [Austria](#austria)
   * [HEALTH INSURANCE](#health-insurance)
   * [ALL - in - one GUIDES](#all---in---one-guides)
   * [NEXT JOB SECTION](#next-job-section)
@@ -99,7 +101,8 @@ Here is information you need to have after being notified about canceling your r
 For more information regarding building resilience please visit [APA’s website](https://www.apa.org/topics/resilience).
 
 ## BENEFITS
-**Unemployment**
+### Germany
+**Unemployment benefits in Germany**
 The German federal government offers unemployment benefits to anyone without work.
 
 There are two types of unemployment benefit in Germany:
@@ -107,7 +110,7 @@ There are two types of unemployment benefit in Germany:
 - unemployment benefit I and,
 - unemployment benefit II (Arbeitslosengeld I and Arbeitslosengeld II).
 
-### Unemployment benefit I
+#### Unemployment benefit I
 **(Arbeitslosengeld I)**
 If you are an unemployed worker who has previously been making regular contributions to [the German social security system](https://www.iamexpat.de/expat-info/social-security), you may be eligible for unemployment benefit I. This provision is offered by the Federal Employment Agency (Bundesagentur für Arbeit) to cover you while you look for a job. The amount you receive, and the duration, depends on how long you have been contributing and the salary you received before you became unemployed.
 Unemployment benefit I requirements
@@ -164,7 +167,7 @@ On your first day without work, at the latest, you need to register in person as
 You can get this form from the employment office; alternatively, it is available to download, fill out, and submit online. Note that the form is only available in German. At this stage, you can also work out [how much unemployment benefit you are likely to receive](https://www.pub.arbeitsagentur.de/selbst.php?jahr=2018).
 You will receive a letter of confirmation in the post, usually within two weeks. You will also probably be invited to attend meetings with a counselor at the employment agency, where you will be expected to demonstrate the efforts you have made to find a job. Note that if you turn down job offers or any training / further education made available to you, your benefits payments can be reduced or stopped altogether.
 
-### Unemployment benefit II
+#### Unemployment benefit II
 
 If you are not eligible for unemployment benefit I, or if you cannot ensure your subsistence adequately from all your income or assets, you can apply for a basic subsistence benefit, unemployment benefit II (Arbeitlosengeld II, often colloquially referred to as Hartz Vier, after the head of the committee whose recommendations in 2002 caused a restructuring of unemployment benefits in Germany). This benefit is also sometimes given as an income supplement for low-earners.
 Unemployment benefit II requirements
@@ -235,6 +238,51 @@ As well as your completed application form, you will need to supply documents th
 Remember also to bring a valid form of ID to all of your job center appointments.
 Your case will then be considered; if you are eligible to receive the benefit you will receive a notification with a schedule of payments in the post. You will also be informed of any further steps you need to take, such as attending appointments, applying for jobs, or undertaking training.
 *Source: [https://www.iamexpat.de/expat-info/social-security/unemployment-benefits-germany-arbeitslosengeld](https://www.iamexpat.de/expat-info/social-security/unemployment-benefits-germany-arbeitslosengeld)*
+
+### Austria
+**Unemployment benefits in Austria**
+**How to apply for unemployment benefit?**
+In Austria, the leading provider of labor-market related services is Austrian Public Employment
+Service (AMS). If you find yourself unemployed and wish to apply for the unemployment benefit, you
+should take the following steps:
+1. Register yourself as unemployed – please note that you can do it on the first day after the
+employment relationship ended at latest or before the end of your employment contract if
+you know the exact date when you will become unemployed (this does not apply to claims
+for unemployment benefit). This is crucial for the continuity of your insurance. There are
+several ways, how you can do it: through a personal eAMS-account or the AMS website, via
+post or fax, by phone and via email.
+2. Apply for unemployment benefit appropriate to your current situation through a personal
+eAMS-account or contact AMS directly. Make sure you are eligible for a benefit that you are
+applying for.
+
+**What unemployment benefits does AMS offer?**
+Please note that the forms of unemployment benefit as well as its conditions and amounts may differ
+between Austria’s provinces.
+
+1. Unemployment benefit – 55% of your net salary
+2. Unemployment benefit and unemployment insurance in EWR countries or in Switzerland
+3. AQUA – Job-related qualification support – financial support to cover the costs of living when
+you pursue a qualification necessary to get a specific job
+4. Integration support – financial support to employers that decide to hire an unemployed
+person that is over 50 years old or is unemployed for a longer time
+5. Commuting allowance – for an unemployed person that accepted a job or an apprenticeship
+that is situated further away from their home
+6. Unemployment exemptions – financial support to cover broadcasting fees or prescriptions
+for medications
+7. Emergency assistance – when a person is still unemployed, but is not eligible for
+unemployment benefit anymore
+8. Guaranteed minimum benefit – to cover costs of living of a person who is unemployed and
+its family
+9. Job application benefit – financial support to cover the traveling costs for job interviews to
+other regions than where a person lives
+10. Housing benefit – financial support to help cover the housing costs
+
+COVID-19 short-time work system has been introduced to save jobs. A person can still receive 80-
+90% of their pay, although their work-time got reduced maximum to 10%. This system may be
+applied for maximum 3 months at first. If all requirements are fulfilled, it can be prolonged for
+another 3-months-period.
+
+*Source: AMS*
 
 ## HEALTH INSURANCE
 [Healthcare in Germany](https://www.internations.org/go/moving-to-germany/healthcare) is divided into two sectors:

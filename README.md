@@ -70,7 +70,7 @@ I am building it as an open-source project. I add here or going to add informati
 - a profile link (LinkedIn, Github, etc) that you prefer to be associated with when we credit your contribution (if you prefer to remain anonymous, please say so).
 
 **Core maintainer:**
--[Alex Jozwik](https://www.linkedin.com/in/alex-jozwik-10182a7a/)
+- [Alex Jozwik](https://www.linkedin.com/in/alex-jozwik-10182a7a/)
 
 **Maintainers:**
 - [Patrycja Szymanska](https://www.linkedin.com/in/patrycja-szyma%C5%84ska-codersfirst/)

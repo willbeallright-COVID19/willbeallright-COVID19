@@ -427,9 +427,9 @@ I’m glad you're here! We hope some of this is helpful and welcome input if you
 **Before Layoffs**
 
 Laying off should be consulted with experts like lawyers, HR people, and Finance officers - that’s obvious, however, you will find below some good practices shared by Andreessen Horowitz and Beth Steinberg who fired people before. It might be beneficial to both your company and employees who still work with you.
-Andreessen Horowitz’s Guide to Planning and Managing Layoffs
-First Round’s How to Lead and Rally a Company through a Layoff
-Harvard Business Review on managing layoffs with compassion
+- [Andreessen Horowitz’s Guide to Planning and Managing Layoffs](https://a16z.com/2020/03/31/planning-and-managing-layoffs/)
+- [First Round’s How to Lead and Rally a Company through a Layoff](https://firstround.com/review/how-to-lead-and-rally-a-company-through-a-layoff/)
+- [Harvard Business Review on managing layoffs with compassion](https://hbr.org/2020/04/how-to-manage-coronavirus-layoffs-with-compassion?ab=hero-main-text)
 
 **After Layoffs**
 

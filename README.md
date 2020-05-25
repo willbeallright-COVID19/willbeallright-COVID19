@@ -368,6 +368,7 @@ Best practices for:
 - [General resume](https://docs.google.com/document/d/1mVxl-TWPfGjZQK_93AVJTa2qC3ig3r0U9yxZmvIIpUo/edit?usp=sharing).
 
 **Video self-presentation**
+
 Nowadays, video resumes gain increasingly in importance. COVID-19 crisis has undoubtedly developed this trend even faster. Here are some tips how you can tackle this challenge:
 
 - **Keep it short and simple** – use shorter sentences to make it easier to follow your presentation. Don’t try to use unnecessarily complicated language unless you feel very comfortable with it. 
@@ -387,7 +388,6 @@ Nowadays, video resumes gain increasingly in importance. COVID-19 crisis has und
 I hope these tips will help you to master your video presentation and get your dream job through
 online channels.
 
-*
 
 **Improve your online presence**
 

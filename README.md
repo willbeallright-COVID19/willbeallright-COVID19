@@ -367,6 +367,28 @@ Best practices for:
 - [ATS compliant resume](https://docs.google.com/document/d/1D_YtM4LKItgAR5ledzLVSyA3PXPNEDodhX4VD2-uMw0/edit?usp=sharing),
 - [General resume](https://docs.google.com/document/d/1mVxl-TWPfGjZQK_93AVJTa2qC3ig3r0U9yxZmvIIpUo/edit?usp=sharing).
 
+**Video self-presentation**
+Nowadays, video resumes gain increasingly in importance. COVID-19 crisis has undoubtedly developed this trend even faster. Here are some tips how you can tackle this challenge:
+
+- **Keep it short and simple** – use shorter sentences to make it easier to follow your presentation. Don’t try to use unnecessarily complicated language unless you feel very comfortable with it. 
+
+- **Adjust your speed of speaking** – holding a presentation in a steady pace can be too monotone. The combination of fast, slow, but also conversational pace will make your presentation more engaging. Speak faster to express your passion and excitement about something and slow down to emphasize the importance of your message.
+
+- **Don’t learn it by heart** – you should definitely plan your presentation and think of what exactly you want to say. However, don’t learn it by heart as it’s clearly visible if you haven’t mastered your acting skills yet.
+
+- **Don’t copy your CV** – build a story, highlight the links between particular steps in your career. Focus on experiences that were most relevant to your development and to the job that you are applying for.
+
+- **Draw attention** – Think of a way to make your presentation remarkable. Maybe start with a question that you will be answering with your story? Try to be remembered and to deliver your story in an original way, but be careful not to exaggerate.
+
+- **Focus on the future** – explain how the role that you are applying for fits your career goals. What past experiences may be relevant for your future responsibilities? What do you still need to work on? Ensure the employer that it is your conscious choice to apply for this position and it means more to you than just earning money.
+
+- **Be punctual** – if you are going to have a live presentation, make sure you are online on time and that your webcam and the background are prepared.
+
+I hope these tips will help you to master your video presentation and get your dream job through
+online channels.
+
+*
+
 **Improve your online presence**
 
 It’s a good practice to set it up before you start sending resumes as lots of companies will conduct a quick social media check before inviting you for an interview. And the most common media used for a job search is Linkedin. 
